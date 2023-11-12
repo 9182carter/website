@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: blue;
+}
+#game{
+    background-color: red;
+}
+#bot{
+    background-color: green;
+}
